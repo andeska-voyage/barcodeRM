@@ -1,6 +1,2 @@
-CREATE TABLE `antrikasir`  (
-  `kd_dokter` varchar(20) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
-  `kd_poli` char(5) CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
-  `status` enum('0','1','2','3') CHARACTER SET latin1 COLLATE latin1_swedish_ci NULL DEFAULT NULL,
-  `no_rawat` varchar(17) CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL
-) ENGINE = MyISAM CHARACTER SET = latin1 COLLATE = latin1_swedish_ci ROW_FORMAT = DYNAMIC;
+![Screenshot 2024-10-08 100403](https://github.com/user-attachments/assets/e9724e0c-1031-4763-846f-1a8b428569de)
+![Screenshot 2024-10-08 100424](https://github.com/user-attachments/assets/154ba755-ef1f-446d-8c9b-04522db396c7)
